@@ -11,8 +11,8 @@ KEITH VARIN
 
 SCOTT WORTHINGTON
 
-ROBERT B. TERRY
+ROBERT B. TERREY
 
 
 Without these contributors none of this information would be available or even exist.
- Thanks to all who have contributed information and insight into the quirks and problems associated with a Tronxy XY-2 pro printer. 
+ Thanks to all who have contributed (whether knowingly or not) this information and insight into the quirks and problems associated with a Tronxy XY-2 pro printer. 
