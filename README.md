@@ -1,7 +1,7 @@
 # TronxyBrainFood
 This is a hub to share information and experience with Tronxy XY-2 pro printers
 
-I have gleened this information from the internet and a certain Tronxy Facebook group. 
+I have gleaned this information from the internet and a certain Tronxy Facebook group. 
 
 The main contributors are:
 
