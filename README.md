@@ -7,13 +7,13 @@ The main contributors are:
 
 JEFF VICTOR
 
-KEITH VARIN
-
 SCOTT WORTHINGTON
 
 BILLIE RUBEN
 
 ROBERT B. TERREY
+
+KEITH VARIN
 
 
 Without these contributors none of this information would be available or even exist.
