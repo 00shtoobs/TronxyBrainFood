@@ -1,7 +1,7 @@
 # TronxyBrainFood
 This is a hub to share information and experience with our friend and nemesis the Tronxy XY-2 Pro 3D printer.
 
-I have gleaned this information from the internet and a certain Tronxy Facebook group. 
+I have gleaned this information from the internet and a certain Tronxy Facebook group. Most of the files are only compatible with the TITAN or standard extruder, V6 191017 Black Main Board.
 
 The main contributors are:
 
