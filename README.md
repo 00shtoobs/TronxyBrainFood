@@ -5,7 +5,7 @@ I have gleaned this information from the internet and a certain Tronxy Facebook 
 
 *\0/* IMPORTANT NOTICE *\0/*
 
-Most of the files are only compatible with the TITAN or standard extruder, V6 191017 Black Main Board.
+Most of the files are only compatible with; The TITAN or Standard Extruder, V6 - 191017 - Black Main Board.
 
 The main contributors are:
 
