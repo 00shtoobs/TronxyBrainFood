@@ -1,7 +1,7 @@
 ; Tronxy 3D Printer Hotrod upgrade
 ; Flashing this file will improve the speed and performance of your Tronxy 
 ; 3D printer with any of the Chitu mainboards. Reboot after loading this file.
-; File provided courtesy of the Community
+; File provided courtesy of the Keith Varin
 ; Come visit and say Hi in the Tronxy XY-2 Owners Club
 ; https://www.facebook.com/groups/417963245614423
 ; http://www.customize-3d.com/chitu-g-code-explained.html is also useful for help with Chitu Gcode as used below
