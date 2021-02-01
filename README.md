@@ -25,6 +25,6 @@ Without these contributors none of this information would be available or even e
 
  
 
-Check out:
+For more information and insight Check out:
 
 https://www.facebook.com/groups/884226342431100/?ref=share
