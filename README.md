@@ -21,5 +21,10 @@ KEITH VARIN
 
 
 Without these contributors none of this information would be available or even exist.
- Thanks to all who have contributed (whether knowingly or not) this information and insight into the quirks and problems associated with a Tronxy XY-2 pro printer. 
+ Thanks to all who have contributed (whether knowingly or not) this information and insight into the quirks and problems associated with a Tronxy XY-2 pro printer.
 
+ 
+
+Check out:
+
+https://www.facebook.com/groups/884226342431100/?ref=share
