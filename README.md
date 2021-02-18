@@ -3,9 +3,6 @@ This is a hub to share information and experience with our friend and nemesis th
 
 I have gleaned this information from the internet and a certain Tronxy Facebook group.
 
-*\0/* IMPORTANT NOTICE *\0/*
-
-Most of the files are only compatible with; The TITAN or Standard Extruder, V6 - CXY-191017 - Black Main Board.
 
 The main contributors are:
 
